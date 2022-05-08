@@ -1,0 +1,40 @@
+・Mongo DB altas
+cowhey3110@gmail.com
+
+コンパス　ダウンロード
+
+
+user
+pass:mondo4data
+
+・postman
+googleアカウント
+cowhey3110@gmail.com
+
+6116135370583d86689603ff
+
+
+〇課題
+・expressに関する理解
+
+
+
+
+https://www.figma.com/file/xWjQFqQLjDZttAbUhps2EJ/?node-id=0%3A1
+
+Reduxでタイプスクリプト
+getStateをどうするか
+
+sb-qrbmq7288330@personal.example.com
+j,6i6lS_
+
+   
+
+admin@example.com
+6120f15b17074a3e44eea3d1
+revews
+
+    {[...Array(pages).keys()].map(x=>(
+        <LinkContainer key={x+1} to={keyword? `/serch/${keyword}/page/${x+1}`:`/page/${x+1}`}>
+<Pagination.Item active ={x+1 ===page}>{x+1}</Pagination.Item>
+        </LinkContainer>

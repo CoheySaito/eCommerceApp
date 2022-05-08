@@ -1,0 +1,20 @@
+html {
+  scroll-behavior: smooth;
+
+  @media screen and (max-width: map-get($grid-breakpoints, lg)-1) {
+    font-size: $mdFontSize;
+  }
+}
+
+body {
+  padding: 0;
+  margin: 0;
+  font-feature-settings: 'palt';
+  letter-spacing: $letterSpacing;
+}
+
+ol,
+ul {
+  padding: 0;
+  list-style-type: none;
+}
